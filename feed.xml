@@ -3,10 +3,10 @@
   <channel>
     <title>Tufte</title>
     <description>A Jekyll theme for content-rich sites</description>
-    <link>/tufte-jekyll/</link>
-    <atom:link href="/tufte-jekyll/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 06 Oct 2015 16:14:43 -0400</pubDate>
-    <lastBuildDate>Tue, 06 Oct 2015 16:14:43 -0400</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 06 Oct 2015 16:30:20 -0400</pubDate>
+    <lastBuildDate>Tue, 06 Oct 2015 16:30:20 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -416,8 +416,8 @@ etc..
 
 </description>
         <pubDate>Thu, 19 Feb 2015 16:46:04 -0500</pubDate>
-        <link>/tufte-jekyll/articles/15/tufte-style-jekyll-blog</link>
-        <guid isPermaLink="true">/tufte-jekyll/articles/15/tufte-style-jekyll-blog</guid>
+        <link>/articles/15/tufte-style-jekyll-blog</link>
+        <guid isPermaLink="true">/articles/15/tufte-style-jekyll-blog</guid>
         
         
         <category>jekyll</category>
@@ -513,8 +513,8 @@ etc..
 
 </description>
         <pubDate>Tue, 17 Feb 2015 06:04:01 -0500</pubDate>
-        <link>/tufte-jekyll/articles/15/Edge-Cases</link>
-        <guid isPermaLink="true">/tufte-jekyll/articles/15/Edge-Cases</guid>
+        <link>/articles/15/Edge-Cases</link>
+        <guid isPermaLink="true">/articles/15/Edge-Cases</guid>
         
         
         <category>post</category>
@@ -538,8 +538,8 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 
 </description>
         <pubDate>Sun, 08 Feb 2015 08:06:04 -0500</pubDate>
-        <link>/tufte-jekyll/articles/15/welcome-to-jekyll</link>
-        <guid isPermaLink="true">/tufte-jekyll/articles/15/welcome-to-jekyll</guid>
+        <link>/articles/15/welcome-to-jekyll</link>
+        <guid isPermaLink="true">/articles/15/welcome-to-jekyll</guid>
         
         
         <category>jekyll</category>
